@@ -1,0 +1,6 @@
+{
+  "name": "Student Program Application & Management System",
+  "description": "Secure portal for students and administrators featuring SAML/OIDC SSO, program management, visual PostgreSQL schemas, and real-time application tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
