@@ -334,9 +334,6 @@ export default function StudentDashboard({
                         <span>{mySurveys.find((s) => s.programId === p.programId) ? "View Survey" : "Rate Program"}</span>
                       </button>
                     </div>
-                      <Star className="h-3 w-3" />
-                      <span>{mySurveys.find((s) => s.programId === p.programId) ? "View Survey" : "Rate Program"}</span>
-                    </button>
                   </div>
                 </div>
               ))}
